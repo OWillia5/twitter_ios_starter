@@ -26,9 +26,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://recordit.co/s7nrKJmhvv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-# Project 3 - *Name of App Here*
+# Project 3 - Twitterati
 
-**Name of your app** is a basic twitter app to read your tweets.
+Twitterati is a basic twitter app to read your tweets.
 
 Time spent: 6 hours spent in total
 
